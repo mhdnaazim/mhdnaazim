@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Naazim</h1>
-<h3 align="center">🚀 Full-Stack MERN Developer | Turning Ideas Into Interactive Experiences</h3>
+<h3 align="center">FULL STACK DEVELOPER</h3>
 
 ---
 
