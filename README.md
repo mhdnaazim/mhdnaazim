@@ -52,5 +52,26 @@
   </a>
 </p>
 
+<p align="center">
+  <svg width="120" height="120" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g>
+      <path d="M12 2C12 2 7 7 9 12C9 12 7.5 11.5 7 9C5 11 4 14 4 16C4 20.4183 7.58172 23 12 23C16.4183 23 20 20.4183 20 16C20 8 12 2 12 2Z" fill="#FF4500">
+        <animate attributeName="fill" values="#FF4500;#FF7F00;#FF4500" dur="1s" repeatCount="indefinite" />
+      </path>
+
+      <path d="M12 12C12 12 10 14 11 16C11 16 10.5 15.8 10.3 15C9 16.5 9 18 9 18C9 19.6569 10.3431 21 12 21C13.6569 21 15 19.6569 15 18C15 14 12 12 12 12Z" fill="#FFA500">
+        <animate attributeName="fill" values="#FFA500;#FFCC00;#FFA500" dur="0.8s" repeatCount="indefinite" />
+      </path>
+
+      <animateTransform attributeName="transform"
+        attributeType="XML"
+        type="scale"
+        values="1;1.05;1"
+        dur="0.6s"
+        repeatCount="indefinite"/>
+    </g>
+  </svg>
+</p>
+
 ---
 
