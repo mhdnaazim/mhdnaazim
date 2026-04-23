@@ -69,7 +69,7 @@ const naazim = {
 ```
 ┌─────────────────────────────────────────────────┐
 │  🟢 Full Stack Developer                        │
-│     Cellar Innovative Developers · 2023–Present │
+│     Cellar Innovative Developers · 2025–Present │
 │                                                  │
 │  → Built MERN-stack applications from scratch   │
 │  → Designed RESTful APIs with full CRUD support │
@@ -77,19 +77,6 @@ const naazim = {
 │  → Delivered features in Agile sprint cycles    │
 └─────────────────────────────────────────────────┘
 ```
-
----
-
-## `{ projects }`
-
-| Project | Description | Stack |
-|---|---|---|
-| **Role-Based Auth System** | JWT auth with granular role permissions and protected routes | Node · Express · MongoDB |
-| **RESTful API Suite** | Production-grade APIs with validation and structured error handling | Express · MongoDB |
-| **React Dashboard UI** | Responsive admin interface with dynamic data and clean state management | React · REST API |
-| **Full-Stack Web App** | End-to-end MERN app with user management and real-time updates | MERN Stack |
-
----
 
 ## `{ github_stats }`
 
