@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║   const developer = "Muhammed Naazim"   ║
-║   role: "MERN Stack Developer"           ║
-║   status: "open_to_work ✓"              ║
-╚══════════════════════════════════════════╝
-```
-
 </div>
 
 <h1 align="center">Hi, I'm Muhammed Naazim</h1>
@@ -21,6 +13,22 @@
   <a href="https://wa.me/919847747050"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
   <a href="https://instagram.com/mhdnaazim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+---
+
+## `{ about_me }`
+
+```javascript
+const naazim = {
+  role:       "Full Stack Developer",
+  company:    "Cellar Innovative Developers",
+  experience: "1+ year",
+  stack:      ["MongoDB", "Express.js", "React.js", "Node.js"],
+  expertise:  ["RESTful API Design", "Role-Based Auth", "Agile workflows"],
+  location:   "Kerala, India",
+  status:     "open_to_work → true",
+};
+```
 
 ---
 
