@@ -24,22 +24,6 @@
 
 ---
 
-## `{ about_me }`
-
-```javascript
-const naazim = {
-  role:       "Full Stack Developer",
-  company:    "Cellar Innovative Developers",
-  experience: "1+ year",
-  stack:      ["MongoDB", "Express.js", "React.js", "Node.js"],
-  expertise:  ["RESTful API Design", "Role-Based Auth", "Agile workflows"],
-  location:   "Kerala, India",
-  status:     "open_to_work → true",
-};
-```
-
----
-
 ## `{ tech_stack }`
 
 **Frontend**
